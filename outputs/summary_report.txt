@@ -6,16 +6,17 @@ Heuristic thresholds auto-relax on IMU-proxy paths so flags stay interpretable (
 Clip: 31.9 min (1913s)
 
 Review flags (heuristics):
-- sharp turn: 8
-- Total flagged intervals: 8
+- sharp turn: 33
+- velocity spike: 120
+- Total flagged intervals: 153
 
 Top events:
+- 00:21–00:21 | velocity_spike | High translational jerk / acceleration spike.
+- 00:26–00:26 | velocity_spike | High translational jerk / acceleration spike.
+- 00:27–00:27 | velocity_spike | High translational jerk / acceleration spike.
 - 00:41–00:42 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
-- 00:52–00:52 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
-- 03:29–03:29 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
-- 03:29–03:29 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
-- 09:26–09:26 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
-- … +3 more (full list in dashboard)
+- 00:42–00:42 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
+- … +148 more (full list in dashboard)
 
 Sensor timing / table integrity (IMU-only; no second motion source):
 - Median Δt: 5.92 ms (~168.82 Hz), p99 Δt: 12.1 ms, max Δt: 22.4 ms

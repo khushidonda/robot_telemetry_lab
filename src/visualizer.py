@@ -168,7 +168,10 @@ def figure_safety_timeline(
     else:
         ymax = 1.0
     ymax *= 1.08
+    # Number every Nth chip only (all axvspan bands still drawn) — avoids unreadable overlap on busy clips.
     for i, e in enumerate(ev_sorted, start=1):
+        if i != 1 and (i % 10) != 0:
+            continue
         xm = 0.5 * (float(e.t_start) + float(e.t_end))
         ax.text(
             xm,

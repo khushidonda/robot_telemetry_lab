@@ -1,8 +1,8 @@
 Benchmark: loop detectors vs vectorized detectors (demo)
 rows: 120,000
-slow (Python loops): 0.2400s | events: 279905
-fast (vectorized):   0.0474s | events: 11969
-speedup (% faster than slow): 80.2%
+slow (Python loops): 0.2501s | events: 279905
+fast (vectorized):   0.0477s | events: 11969
+speedup (% faster than slow): 80.9%
 
 Notes:
 - Event counts can differ slightly because grouping rules differ.

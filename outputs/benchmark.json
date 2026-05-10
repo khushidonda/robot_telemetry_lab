@@ -1,8 +1,8 @@
 {
   "rows": 120000,
-  "slow_seconds": 0.24000008299481124,
-  "fast_seconds": 0.047406041994690895,
-  "speedup_pct_vs_slow": 80.24748933286169,
+  "slow_seconds": 0.2500573330326006,
+  "fast_seconds": 0.04765983298420906,
+  "speedup_pct_vs_slow": 80.94043777632567,
   "slow_events": 279905,
   "fast_events": 11969
 }

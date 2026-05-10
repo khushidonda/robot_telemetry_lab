@@ -1,9 +1,154 @@
 t_start,t_end,category,severity,description
-41.273876905441284,41.53199529647827,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
-52.217997312545776,52.28401160240173,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
-208.76380348205566,208.80580139160156,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
-209.02780532836914,209.09379172325134,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
-565.5538415908813,565.5777008533478,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
-850.4997022151947,850.6676769256592,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
-887.7785713672638,887.831818819046,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
-1260.4074506759644,1260.9954495429993,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+21.251911401748657,21.251911401748657,velocity_spike,2,High translational jerk / acceleration spike.
+26.052804470062256,26.052804470062256,velocity_spike,2,High translational jerk / acceleration spike.
+27.108014822006226,27.108014822006226,velocity_spike,2,High translational jerk / acceleration spike.
+41.16707682609558,41.59198570251465,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+41.699976205825806,41.75995850563049,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+42.22193884849548,42.22193884849548,velocity_spike,2,High translational jerk / acceleration spike.
+51.88203716278076,52.583991289138794,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+95.57383322715759,95.58597135543823,velocity_spike,2,High translational jerk / acceleration spike.
+99.57592391967773,99.61346936225891,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+99.62402415275574,99.62402415275574,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+157.8000431060791,157.80007553100586,velocity_spike,2,High translational jerk / acceleration spike.
+208.52378821372986,209.2504575252533,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+246.85789680480957,246.88209557533264,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+309.3718903064728,309.3718903064728,velocity_spike,2,High translational jerk / acceleration spike.
+310.46392583847046,310.4757831096649,velocity_spike,2,High translational jerk / acceleration spike.
+361.18792390823364,361.2010307312012,velocity_spike,2,High translational jerk / acceleration spike.
+397.8119556903839,397.81800746917725,velocity_spike,2,High translational jerk / acceleration spike.
+400.98578691482544,400.99192333221436,velocity_spike,2,High translational jerk / acceleration spike.
+411.677757024765,411.689733505249,velocity_spike,2,High translational jerk / acceleration spike.
+424.46975445747375,424.4757466316223,velocity_spike,2,High translational jerk / acceleration spike.
+429.83390951156616,429.8458127975464,velocity_spike,2,High translational jerk / acceleration spike.
+439.28993916511536,439.2959234714508,velocity_spike,2,High translational jerk / acceleration spike.
+453.26977491378784,453.28173899650574,velocity_spike,2,High translational jerk / acceleration spike.
+453.82176971435547,453.82181549072266,velocity_spike,2,High translational jerk / acceleration spike.
+455.9577763080597,455.9577763080597,velocity_spike,2,High translational jerk / acceleration spike.
+469.96775674819946,469.96775674819946,velocity_spike,2,High translational jerk / acceleration spike.
+471.0238621234894,471.0238621234894,velocity_spike,2,High translational jerk / acceleration spike.
+472.0977249145508,472.0977249145508,velocity_spike,2,High translational jerk / acceleration spike.
+480.37776589393616,480.38986587524414,velocity_spike,2,High translational jerk / acceleration spike.
+491.24987745285034,491.24987745285034,velocity_spike,2,High translational jerk / acceleration spike.
+493.31374430656433,493.3257222175598,velocity_spike,2,High translational jerk / acceleration spike.
+495.4617877006531,495.4617877006531,velocity_spike,2,High translational jerk / acceleration spike.
+498.7077052593231,498.7137522697449,velocity_spike,2,High translational jerk / acceleration spike.
+499.22982692718506,499.241721868515,velocity_spike,2,High translational jerk / acceleration spike.
+500.3158130645752,500.3278172016144,velocity_spike,2,High translational jerk / acceleration spike.
+510.9057171344757,510.9057831764221,velocity_spike,2,High translational jerk / acceleration spike.
+515.6217041015625,515.6217250823975,velocity_spike,2,High translational jerk / acceleration spike.
+516.6896984577179,516.689742565155,velocity_spike,2,High translational jerk / acceleration spike.
+528.2940900325775,528.2940900325775,velocity_spike,2,High translational jerk / acceleration spike.
+565.4997644424438,565.7456941604614,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+609.3837542533875,609.3837542533875,velocity_spike,2,High translational jerk / acceleration spike.
+610.4878890514374,610.4878890514374,velocity_spike,2,High translational jerk / acceleration spike.
+653.3457822799683,653.3458285331726,velocity_spike,2,High translational jerk / acceleration spike.
+677.9158127307892,677.9158127307892,velocity_spike,2,High translational jerk / acceleration spike.
+681.8942902088165,681.9418165683746,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+682.0497181415558,682.2116591930389,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+705.6597428321838,706.0017483234406,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+763.1938049793243,763.1997532844543,velocity_spike,2,High translational jerk / acceleration spike.
+770.7476415634155,770.7596950531006,velocity_spike,2,High translational jerk / acceleration spike.
+772.8537476062775,772.8597240447998,velocity_spike,2,High translational jerk / acceleration spike.
+773.3816242218018,773.3936338424683,velocity_spike,2,High translational jerk / acceleration spike.
+773.9218277931213,773.9396047592163,velocity_spike,2,High translational jerk / acceleration spike.
+850.385721206665,850.9256129264832,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+887.5562493801117,887.8796021938324,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+887.9756050109863,888.0175943374634,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+888.1736121177673,888.1975600719452,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+914.9275839328766,915.150146484375,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+923.1776859760284,923.1897938251495,velocity_spike,2,High translational jerk / acceleration spike.
+927.5517091751099,927.6305983066559,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+930.8216915130615,930.8276805877686,velocity_spike,2,High translational jerk / acceleration spike.
+933.1015717983246,933.1135637760162,velocity_spike,2,High translational jerk / acceleration spike.
+939.197717666626,939.4136908054352,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+946.6496415138245,946.7053120136261,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+946.9016077518463,947.0696411132812,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+961.1095623970032,961.1216592788696,velocity_spike,2,High translational jerk / acceleration spike.
+995.1355979442596,995.1415648460388,velocity_spike,2,High translational jerk / acceleration spike.
+1002.4017426967621,1002.5341970920563,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1008.0237023830414,1008.0237023830414,velocity_spike,2,High translational jerk / acceleration spike.
+1009.7995250225067,1009.7995250225067,velocity_spike,2,High translational jerk / acceleration spike.
+1011.4556093215942,1011.4556496143341,velocity_spike,2,High translational jerk / acceleration spike.
+1016.2915289402008,1016.2915463447571,velocity_spike,2,High translational jerk / acceleration spike.
+1034.5978021621704,1034.5978178977966,velocity_spike,2,High translational jerk / acceleration spike.
+1042.0855276584625,1042.3495154380798,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1043.1296517848969,1043.1355483531952,velocity_spike,2,High translational jerk / acceleration spike.
+1051.7275984287262,1051.7336070537567,velocity_spike,2,High translational jerk / acceleration spike.
+1053.9837627410889,1053.9837627410889,velocity_spike,2,High translational jerk / acceleration spike.
+1054.5475914478302,1054.5475914478302,velocity_spike,2,High translational jerk / acceleration spike.
+1055.111718416214,1055.1235980987549,velocity_spike,2,High translational jerk / acceleration spike.
+1058.4296081066132,1058.435718536377,velocity_spike,2,High translational jerk / acceleration spike.
+1075.4037415981293,1075.4037415981293,velocity_spike,2,High translational jerk / acceleration spike.
+1098.9476363658905,1098.9476363658905,velocity_spike,2,High translational jerk / acceleration spike.
+1124.9635546207428,1124.9756565093994,velocity_spike,2,High translational jerk / acceleration spike.
+1140.4688184261322,1140.4688184261322,velocity_spike,2,High translational jerk / acceleration spike.
+1140.9654734134674,1141.0196511745453,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1141.122956752777,1141.6016173362732,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1154.2316403388977,1154.2316403388977,velocity_spike,2,High translational jerk / acceleration spike.
+1158.6016566753387,1158.6016566753387,velocity_spike,2,High translational jerk / acceleration spike.
+1159.7034995555878,1159.7034995555878,velocity_spike,2,High translational jerk / acceleration spike.
+1182.7196843624115,1182.72602891922,velocity_spike,2,High translational jerk / acceleration spike.
+1194.9594984054565,1194.9714481830597,velocity_spike,2,High translational jerk / acceleration spike.
+1219.2775461673737,1219.283650636673,velocity_spike,2,High translational jerk / acceleration spike.
+1233.9835913181305,1234.2175748348236,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1241.7834832668304,1242.179482460022,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1246.3315210342407,1246.3434624671936,velocity_spike,2,High translational jerk / acceleration spike.
+1246.8476867675781,1246.8715624809265,velocity_spike,2,High translational jerk / acceleration spike.
+1250.519462108612,1250.519462108612,velocity_spike,2,High translational jerk / acceleration spike.
+1260.3234748840332,1261.0854487419128,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1264.259438753128,1264.259470462799,velocity_spike,2,High translational jerk / acceleration spike.
+1264.799485206604,1264.799485206604,velocity_spike,2,High translational jerk / acceleration spike.
+1265.3515918254852,1265.375522851944,velocity_spike,2,High translational jerk / acceleration spike.
+1265.9034411907196,1265.9154534339905,velocity_spike,2,High translational jerk / acceleration spike.
+1302.791422843933,1302.7914488315582,velocity_spike,2,High translational jerk / acceleration spike.
+1326.7434525489807,1326.7434525489807,velocity_spike,2,High translational jerk / acceleration spike.
+1327.3014748096466,1327.3135442733765,velocity_spike,2,High translational jerk / acceleration spike.
+1332.347463607788,1332.353422164917,velocity_spike,2,High translational jerk / acceleration spike.
+1340.5434832572937,1340.5495505332947,velocity_spike,2,High translational jerk / acceleration spike.
+1341.623652935028,1341.6294853687286,velocity_spike,2,High translational jerk / acceleration spike.
+1351.0195705890656,1351.031670331955,velocity_spike,2,High translational jerk / acceleration spike.
+1351.5597169399261,1351.5715630054474,velocity_spike,2,High translational jerk / acceleration spike.
+1353.61301445961,1353.61301445961,velocity_spike,2,High translational jerk / acceleration spike.
+1416.569391965866,1416.569391965866,velocity_spike,2,High translational jerk / acceleration spike.
+1516.265525817871,1516.265525817871,velocity_spike,2,High translational jerk / acceleration spike.
+1530.1313817501068,1530.2693548202515,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1599.6833646297455,1599.6893327236176,velocity_spike,2,High translational jerk / acceleration spike.
+1627.985336303711,1627.985336303711,velocity_spike,2,High translational jerk / acceleration spike.
+1628.4893431663513,1628.5013554096222,velocity_spike,2,High translational jerk / acceleration spike.
+1633.0974488258362,1633.1094570159912,velocity_spike,2,High translational jerk / acceleration spike.
+1634.2134087085724,1634.2262365818024,velocity_spike,2,High translational jerk / acceleration spike.
+1649.2133383750916,1649.2193698883057,velocity_spike,2,High translational jerk / acceleration spike.
+1655.4833509922028,1655.483421087265,velocity_spike,2,High translational jerk / acceleration spike.
+1657.607335805893,1657.6135721206665,velocity_spike,2,High translational jerk / acceleration spike.
+1661.7957983016968,1661.80153632164,velocity_spike,2,High translational jerk / acceleration spike.
+1666.001317024231,1666.001383304596,velocity_spike,2,High translational jerk / acceleration spike.
+1676.0634009838104,1676.0634009838104,velocity_spike,2,High translational jerk / acceleration spike.
+1681.4994006156921,1681.4994006156921,velocity_spike,2,High translational jerk / acceleration spike.
+1713.6835823059082,1713.6835823059082,velocity_spike,2,High translational jerk / acceleration spike.
+1739.0332915782928,1739.0693283081055,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1739.165333032608,1739.2072842121124,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1739.459307193756,1739.5373084545135,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1752.1552667617798,1752.1552667617798,velocity_spike,2,High translational jerk / acceleration spike.
+1762.1036884784698,1762.1094152927399,velocity_spike,2,High translational jerk / acceleration spike.
+1779.5048565864563,1779.5048565864563,velocity_spike,2,High translational jerk / acceleration spike.
+1780.5952677726746,1780.5952677726746,velocity_spike,2,High translational jerk / acceleration spike.
+1789.3150174617767,1789.5414609909058,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1793.9453625679016,1793.9692883491516,velocity_spike,2,High translational jerk / acceleration spike.
+1794.9472873210907,1794.9539263248444,velocity_spike,2,High translational jerk / acceleration spike.
+1795.4032564163208,1795.4213116168976,velocity_spike,2,High translational jerk / acceleration spike.
+1826.0094215869904,1826.0094215869904,velocity_spike,2,High translational jerk / acceleration spike.
+1842.587241411209,1842.5932710170746,velocity_spike,2,High translational jerk / acceleration spike.
+1846.337474822998,1846.3493938446045,velocity_spike,2,High translational jerk / acceleration spike.
+1850.610556602478,1850.6212930679321,velocity_spike,2,High translational jerk / acceleration spike.
+1853.7360863685608,1853.7360863685608,velocity_spike,2,High translational jerk / acceleration spike.
+1855.84792304039,1855.8533782958984,velocity_spike,2,High translational jerk / acceleration spike.
+1856.3692371845245,1856.3692545890808,velocity_spike,2,High translational jerk / acceleration spike.
+1857.9112617969513,1857.923433303833,velocity_spike,2,High translational jerk / acceleration spike.
+1858.907330274582,1858.9253237247467,velocity_spike,2,High translational jerk / acceleration spike.
+1859.393352508545,1859.4053606987,velocity_spike,2,High translational jerk / acceleration spike.
+1860.9413840770721,1860.9533395767212,velocity_spike,2,High translational jerk / acceleration spike.
+1861.4392364025116,1861.4392364025116,velocity_spike,2,High translational jerk / acceleration spike.
+1863.4792375564575,1863.4852426052094,velocity_spike,2,High translational jerk / acceleration spike.
+1866.1014757156372,1866.1132962703705,velocity_spike,2,High translational jerk / acceleration spike.
+1877.6344621181488,1877.6452486515045,velocity_spike,2,High translational jerk / acceleration spike.
+1889.9452884197235,1890.2875640392303,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
