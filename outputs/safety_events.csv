@@ -1,0 +1,9 @@
+t_start,t_end,category,severity,description
+41.273876905441284,41.53199529647827,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+52.217997312545776,52.28401160240173,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+208.76380348205566,208.80580139160156,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+209.02780532836914,209.09379172325134,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+565.5538415908813,565.5777008533478,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+850.4997022151947,850.6676769256592,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+887.7785713672638,887.831818819046,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).
+1260.4074506759644,1260.9954495429993,sharp_turn,2,High angular velocity (tight turn / aggressive reorientation).

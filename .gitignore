@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large public bags (do not push multi-hundred-MB ROS1 binaries)
+data/*.bag

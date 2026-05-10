@@ -1,0 +1,25 @@
+FLEET TELEMETRY BRIEF (demo)
+
+Data: rosbag:cartographer_paper_deutsches_museum.bag
+Note: IMU-only bag — motion is an integration proxy, not wheel odometry.
+Heuristic thresholds auto-relax on IMU-proxy paths so flags stay interpretable (triage, not incident certification).
+Clip: 31.9 min (1913s)
+
+Review flags (heuristics):
+- sharp turn: 8
+- Total flagged intervals: 8
+
+Top events:
+- 00:41–00:42 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
+- 00:52–00:52 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
+- 03:29–03:29 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
+- 03:29–03:29 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
+- 09:26–09:26 | sharp_turn | High angular velocity (tight turn / aggressive reorientation).
+- … +3 more (full list in dashboard)
+
+Sensor timing / table integrity (IMU-only; no second motion source):
+- Median Δt: 5.92 ms (~168.82 Hz), p99 Δt: 12.1 ms, max Δt: 22.4 ms
+- Spacing spikes above 47.4 ms: 0 (coarse proxy for gaps / jitter in the timestamp column)
+- Classic robot-truth (independent A vs B) is not applicable without wheel odometry; the dashboard swaps the speed overlay for this integrity view.
+
+Next at scale: version metric definitions with eng/validation; validate flags against mission logs; expand from single-robot clip to fleet rollups (uptime, dock success, stops/hr).
